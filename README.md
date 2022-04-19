@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi 😄
+My name is Jéssica, I´m a Front-end web developer!
+
+
+### Technologies
+|JavaScript | HTML5 | CSS3 | Wordpress |
+|-----------|-------|------|-----------|
+
+### Contact
+* Meu Linkedin [Linkedin](https://www.linkedin.com/in/jessica-pinheiro-9b6b78185/)
+* Meu Instagram [Instagram](https://www.instagram.com/jessipinheiro_s/?hl=pt-br)
 
 <!--
 **jessicapinheiro-s/jessicapinheiro-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
