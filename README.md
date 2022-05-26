@@ -1,8 +1,8 @@
-## Hi 😄
+## Hi 😊
 ⚡ My name is Jéssica, I´m a Front-end web developer! <br>
 🌱 Estou aprendendo sobre Desenvolvimento Web <br>
-🔭 Estou cursando Análise e desenvolvimento de Sistemas <br>
-😄 Pronomes: Ela/Dela <br>
+📚 Estou cursando Análise e desenvolvimento de Sistemas <br>
+👧 Pronomes: Ela/Dela <br>
 
 
 <div align = "center" style="display: flex">
@@ -17,6 +17,8 @@
   <img align="center" alt="Jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jessica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jessica-vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 </div> <br>
   
 <div> 
