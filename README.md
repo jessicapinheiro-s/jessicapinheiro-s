@@ -8,7 +8,8 @@
 <div align = "center" style="display: flex">
   <a href="https://github.com/jessicapinheiro-s">
   <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width= "45%" src="[![Top Langs]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact)(https://github.com/jessicapinheiro/github-readme-stats)"/>
 </div>
   
 <div style="display: inline_block"><br>
