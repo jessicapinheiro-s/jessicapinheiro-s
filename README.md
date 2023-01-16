@@ -5,6 +5,7 @@
 👧 Pronomes: Ela/Dela <br>
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div align = "center" style="display: flex">
   <a href="https://github.com/jessicapinheiro-s">
     <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s=&show_icons=true&theme=tokyonight"/>
