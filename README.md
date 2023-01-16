@@ -8,9 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <div align = "center" style="display: flex">
   <a href="https://github.com/jessicapinheiro-s">
-    <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s=&show_icons=true&theme=tokyonight"/>
+    <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=tokyonight"/>
   <a href="https://github.com/jessicapinheiro-s">  
-    <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
   
 <div style="display: inline_block"><br>
