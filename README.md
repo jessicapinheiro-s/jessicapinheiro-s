@@ -4,7 +4,7 @@
 📚 Estou cursando Análise e desenvolvimento de Sistemas <br>
 👧 Pronomes: Ela/Dela <br>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=radical)
 <div align = "center" style="display: flex">
   <a href="https://github.com/jessicapinheiro-s">
     <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s=&show_icons=true&theme=radical"/>
