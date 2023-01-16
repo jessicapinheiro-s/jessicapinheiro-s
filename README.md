@@ -4,13 +4,11 @@
 📚 Estou cursando Análise e desenvolvimento de Sistemas <br>
 👧 Pronomes: Ela/Dela <br>
 
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <div align = "center" style="display: flex">
   <a href="https://github.com/jessicapinheiro-s">
     <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=tokyonight"/>
   <a href="https://github.com/jessicapinheiro-s">  
-    <img height="180em" width= "45%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -24,7 +22,6 @@
   <img align="center" alt="Jessica-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="Jessica-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div> <br>
-  ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s=&show_icons=true&theme=radical)
 <div> 
   <h2>Contact</h2> 
   <a href="https://www.instagram.com/jessipinheiro_s/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
