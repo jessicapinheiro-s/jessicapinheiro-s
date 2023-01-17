@@ -6,9 +6,9 @@
 
 <div align = "center" style="display: flex">
   <a href="https://github.com/jessicapinheiro-s">
-    <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=tokyonight"/>
+    <img height="180em" width= "45%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=tokyonight"/>
   <a href="https://github.com/jessicapinheiro-s">  
-    <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&theme=tokyonight"/>
+    <img height="180em" width= "45%" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
