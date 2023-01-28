@@ -3,14 +3,14 @@
 🌱 Estou aprendendo sobre Desenvolvimento Web <br>
 📚 Estou cursando Análise e desenvolvimento de Sistemas <br>
 👧 Pronomes: Ela/Dela <br>
-<!--
+
 <div align = "center" style="display: flex">
   <a href="https://github.com/jessicapinheiro-s">
     <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=tokyonight"/>
   <a href="https://github.com/jessicapinheiro-s">  
     <img height="180em" width= "45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&theme=tokyonight"/>
 </div>
-    <br>-->
+    <br>
 <div style="display: inline_block"><br>
    <h2>Technologies and Tools</h2> 
   <img align="center" alt="Jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
