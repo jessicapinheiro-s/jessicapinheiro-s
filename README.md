@@ -2,7 +2,6 @@
 ⚡ My name is Jéssica, I´m a Front-end web developer! <br>
 🌱 I'm a Web Front-End Developer <br>
 📚 I'm studying systems analysis and development <br>
-👧 Pronomes: She/Her <br>
 
 <div align = "center" style="display: flex">
   <a href="https://github.com/jessicapinheiro-s">
