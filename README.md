@@ -1,7 +1,7 @@
 ## Hi 😊
-⚡ My name is Jéssica, I´m a Front-end developer! <br>
-🌱 I'm a Web Front-End Developer <br>
-📚 I'm studying systems analysis and development <br>
+⚡ My name is Jéssica Pinheiro<br>
+🌱 I'm a Front-End Developer<br>
+📚 I hold a degree in Systems Analysis and Development.<br>
 
 <div align = "center" style="display: flex">
   <a href="https://github.com/jessicapinheiro-s">
