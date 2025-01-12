@@ -1,5 +1,5 @@
 ## Hi 😊
-⚡ My name is Jéssica, I´m a Front-end web developer! <br>
+⚡ My name is Jéssica, I´m a Front-end developer! <br>
 🌱 I'm a Web Front-End Developer <br>
 📚 I'm studying systems analysis and development <br>
 
