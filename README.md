@@ -46,8 +46,7 @@ Apaixonada por tecnologia, design e desenvolvimento de soluções que realmente 
 
 ## 🌎 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/jessica-pinheiro-9b6b78185/)
-- [Portfólio](#) _(Se tiver, me fala que coloco aqui!)_
-- ✉️ **Email:** [seuemail@email.com](mailto:seuemail@email.com)
+- ✉️ **Email:** [seuemail@email.com](mailto:jessicasilva.js1314@gmail.com)
 
 ---
 
