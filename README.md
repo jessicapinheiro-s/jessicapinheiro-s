@@ -22,6 +22,7 @@ Apaixonada por tecnologia, design e desenvolvimento de soluções que realmente 
   <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ---
