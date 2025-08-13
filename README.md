@@ -21,7 +21,6 @@ Apaixonada por tecnologia, design e desenvolvimento de soluções que realmente 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
@@ -30,7 +29,7 @@ Apaixonada por tecnologia, design e desenvolvimento de soluções que realmente 
 ## 🛠️ Habilidades
 
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Styled Components, SASS, Single SPA
-- **Backend:** PostgreSQL (banco de dados e modelagem)
+- **Backend:** Python, PostgreSQL (banco de dados e modelagem)
 - **Ferramentas:** Git, Azure DevOps, Github, Figma, Jest
 - **Soft Skills:** Comunicação, organização, flexibilidade, gestão de tempo e trabalho em equipe
 
