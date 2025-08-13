@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedora Front-End** com **2 anos de experiência**, especializada na criação de interfaces **interativas, responsivas e performáticas** utilizando tecnologias modernas como **React.js, Next.js, TypeScript e Tailwind CSS**.
+Sou **Desenvolvedora Front-End** com mais de **2 anos de experiência**, especializada na criação de interfaces **interativas, responsivas e performáticas** utilizando tecnologias modernas como **React.js, Next.js, TypeScript e Tailwind CSS**.
 
 Apaixonada por tecnologia, design e desenvolvimento de soluções que realmente fazem a diferença. Acredito no **aprendizado contínuo** e na evolução constante como chave para entregar software de qualidade.
 
