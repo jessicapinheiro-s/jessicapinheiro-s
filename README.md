@@ -1,11 +1,11 @@
 <h1 align="center">👋 Olá, eu sou a Jéssica Pinheiro</h1>
-<h3 align="center">Desenvolvedora Front-End apaixonada por criar interfaces incríveis e experiências de alto desempenho.</h3>
+<h3 align="center">Desenvolvedora Full Stack apaixonada por criar interfaces incríveis e experiências de alto desempenho.</h3>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedora Front-End** com mais de **2 anos de experiência**, especializada na criação de interfaces **interativas, responsivas e performáticas** utilizando tecnologias modernas como **React.js, Next.js, TypeScript e Tailwind CSS**.
+Sou **Desenvolvedora Full Stack** com mais de **2 anos de experiência**, especializada na criação de interfaces **interativas, responsivas e performáticas** utilizando tecnologias modernas como **React.js, Next.js, TypeScript e Tailwind CSS**, além de construir backends escaláveis e seguros com **Node.js e NestJS**.
 
 Apaixonada por tecnologia, design e desenvolvimento de soluções que realmente fazem a diferença. Acredito no **aprendizado contínuo** e na evolução constante como chave para entregar software de qualidade.
 
@@ -16,6 +16,8 @@ Apaixonada por tecnologia, design e desenvolvimento de soluções que realmente 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -28,10 +30,10 @@ Apaixonada por tecnologia, design e desenvolvimento de soluções que realmente 
 
 ## 🛠️ Habilidades
 
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Styled Components, SASS, Single SPA
-- **Backend:** Python, PostgreSQL (banco de dados e modelagem)
-- **Ferramentas:** Git, Azure DevOps, Github, Figma, Jest
-- **Soft Skills:** Comunicação, organização, flexibilidade, gestão de tempo e trabalho em equipe
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Styled Components, SASS, Single SPA  
+- **Backend:** Node.js, NestJS, Python, PostgreSQL (banco de dados e modelagem)  
+- **Ferramentas:** Git, Azure DevOps, Github, Figma, Jest  
+- **Soft Skills:** Comunicação, organização, flexibilidade, gestão de tempo e trabalho em equipe  
 
 ---
 
