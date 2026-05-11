@@ -53,9 +53,3 @@ Sou **Desenvolvedora Full Stack** com sólida experiência no ecossistema JavaSc
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jessicapinheiro-s&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20tecnologia%20move%20o%20mundo,%20e%20eu%20movo%20código." alt="Quote" />
-</div>
