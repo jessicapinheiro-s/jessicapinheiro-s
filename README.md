@@ -1,54 +1,61 @@
-<h1 align="center">👋 Olá, eu sou a Jéssica Pinheiro</h1>
-<h3 align="center">Desenvolvedora Full Stack apaixonada por criar interfaces incríveis e experiências de alto desempenho.</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXZueXZueXZueXZueXZueXZueXZueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+  <h1>Olá, eu sou a Jéssica 👋</h1>
+  <p><strong>Desenvolvedora Full Stack | TypeScript | Node.js | React</strong></p>
 
----
-
-## 🚀 Sobre mim
-
-Sou **Desenvolvedora Full Stack** com mais de **2 anos de experiência**, especializada na criação de interfaces **interativas, responsivas e performáticas** utilizando tecnologias modernas como **React.js, Next.js, TypeScript e Tailwind CSS**, além de construir backends escaláveis e seguros com **Node.js e NestJS**.
-
-Apaixonada por tecnologia, design e desenvolvimento de soluções que realmente fazem a diferença. Acredito no **aprendizado contínuo** e na evolução constante como chave para entregar software de qualidade.
-
----
-
-## 💻 Tecnologias
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- Contatos Minimalistas -->
+  <a href="https://www.linkedin.com/in/jessica-pinheiro-9b6b78185/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo" />
+  </a>
 </div>
 
 ---
 
-## 🛠️ Habilidades
+### 🚀 Sobre Mim
 
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Styled Components, SASS, Single SPA  
-- **Backend:** Node.js, NestJS, Python, PostgreSQL (banco de dados e modelagem)  
-- **Ferramentas:** Git, Azure DevOps, Github, Figma, Jest  
-- **Soft Skills:** Comunicação, organização, flexibilidade, gestão de tempo e trabalho em equipe  
+Sou **Desenvolvedora Full Stack** com sólida experiência no ecossistema JavaScript/TypeScript, focada na construção de aplicações ponta a ponta. Minha atuação vai desde a concepção de interfaces responsivas e de alto desempenho até a modelagem de backends robustos, escaláveis e seguros.
+
+* 🌍 Especialista no desenvolvimento de SPAs e aplicações Server-Side com **Node.js, NestJS e React**.
+* ⚡ Domínio de arquiteturas modernas, priorizando a entrega de código limpo, testável e de fácil manutenção.
+* ⚙️ Experiência técnica em ambientes ágeis, focando na resolução de problemas complexos e na performance do produto final.
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Toolbox Tecnológica
+
+#### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,sass" alt="Frontend Skills" />
+</p>
+
+#### **Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,postgres,mongodb,prisma" alt="Backend Skills" />
+</p>
+
+#### **DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,figma" alt="Tools" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicapinheiro-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicapinheiro-s&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jessicapinheiro-s&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🌎 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/jessica-pinheiro-9b6b78185/)
-
----
-
-_“A tecnologia move o mundo, e eu movo código.”_
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20tecnologia%20move%20o%20mundo,%20e%20eu%20movo%20código." alt="Quote" />
+</div>
