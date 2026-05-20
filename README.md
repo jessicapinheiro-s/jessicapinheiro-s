@@ -18,7 +18,7 @@
 
 Sou **Desenvolvedora Full Stack** com sólida experiência no ecossistema JavaScript/TypeScript, focada na construção de aplicações ponta a ponta. Minha atuação vai desde a concepção de interfaces responsivas e de alto desempenho até a modelagem de backends robustos, escaláveis e seguros.
 
-* 🌍 Especialista no desenvolvimento de SPAs e aplicações Server-Side com **Node.js, NestJS e React**.
+* 🌍 Especialista no desenvolvimento de SPAs e aplicações Server-Side com **Node.js, NestJS, Next.js e React**.
 * ⚡ Domínio de arquiteturas modernas, priorizando a entrega de código limpo, testável e de fácil manutenção.
 * ⚙️ Experiência técnica em ambientes ágeis, focando na resolução de problemas complexos e na performance do produto final.
 
